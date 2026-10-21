@@ -2,24 +2,20 @@
 <div align="center">
 
   <!-- Banner superior con efecto ola -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jaime%20Montes&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SysAdmin%20%7C%20ASIR%20%7C%20Hardware%20%26%20Redes&descAlignY=55&descSize=20" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jaime%20Montes&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=30&fontAlignX=50&fontFamily=Verdana" width="100%" alt="Banner Jaime Montes" />
 
   <!-- Efecto máquina de escribir en SVG -->
   <a href="https://github.com/JaimeG07">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=T%C3%A9cnico+ en+Sistemas+Microinform%C3%A1ticos+y+Redes+(SMR);Estudiante+de+2.%C2%BA+de+ASIR+en+Madrid;Apasionado+del+Hardware%2C+Linux%2C+Redes+y+Docker;Aprendiendo+y+automatizando+con+Bash+y+SQL" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=T%C3%A9cnico+en+Sistemas+Microinform%C3%A1ticos+y+en+ASIR;Administrador+de+Sistemas;Soporte+T%C3%A9cnico+%26+Virtualizaci%C3%B3n" alt="Typing SVG" />
   </a>
 
   <br/>
 
-  <!-- Botones de contacto e insignias -->
+  <!-- Botones de contacto -->
   <p align="center">
     <a href="https://www.linkedin.com/in/jaime-montes-gonzález-213410238" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:jaimemontesglez@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Pinto%2C%20Madrid-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación" />
     <img src="https://komarev.com/ghpvc/?username=JaimeG07&label=Visitas%20al%20perfil&color=0e75b6&style=for-the-badge" alt="Visitas" />
   </p>
 
@@ -27,24 +23,25 @@
 
 <hr/>
 
-<!-- SECCIÓN SOBRE MÍ A DOS COLUMNAS CON TABLA HTML -->
-<table width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h3>👨‍💻 Sobre mí</h3>
-      <p>
-        ¡Hola! Soy <b>Jaime</b>, técnico titulado en <b>SMR</b> y actualmente cursando el último año del Grado Superior en <b>Administración de Sistemas Informáticos en Red (ASIR)</b>.
-      </p>
-      <ul>
-        <li>🔭 <b>Enfocado en:</b> Administración de sistemas <kbd>Linux</kbd> y <kbd>Windows Server</kbd>, virtualización y despliegue de contenedores.</li>
-        <li>🌱 <b>Perfeccionando:</b> Automatización con <b>Bash</b>, entornos en <b>Docker</b>, diseño de redes y consultas en <b>SQL</b>.</li>
-        <li>🖥️ <b>Especialidad:</b> Montaje de equipos a medida, diagnóstico de hardware y soporte técnico resolutivo.</li>
-        <li>💬 <b>Idiomas:</b> Español (Nativo) | Inglés (Nivel B2 Fluido).</li>
-      </ul>
-    </td>
-    <td width="45%" valign="center">
-      <!-- Bloque estilo terminal -->
-      <pre lang="yaml">
+<!-- SECCIÓN SOBRE MÍ -->
+<div align="center">
+  <table width="100%" style="border-collapse: separate; border-spacing: 16px;">
+    <tr>
+      <td width="55%" valign="top" style="padding: 20px; background: linear-gradient(135deg, #0f172a, #111827); border: 1px solid #1e293b; border-radius: 18px; box-shadow: 0 8px 16px rgba(0,0,0,0.15);">
+        <h3 style="margin: 0 0 12px; color: #f8fafc;">👨‍💻 Sobre mí</h3>
+        <p style="margin: 0; color: #e2e8f0; line-height: 1.7; text-align: left;">
+          ¡Hola! Soy <strong>Jaime</strong>, técnico titulado en <strong>SMR</strong> y actualmente cursando el último año del Grado Superior en <strong>Administración de Sistemas Informáticos en Red (ASIR)</strong>.
+        </p>
+        <ul style="margin: 14px 0 0; padding-left: 18px; color: #e2e8f0; text-align: left; line-height: 1.8;">
+          <li><strong>🔭 Enfocado en:</strong> Administración de sistemas <kbd>Linux</kbd> y <kbd>Windows Server</kbd>, virtualización y despliegue de contenedores.</li>
+          <li><strong>🌱 Perfeccionando:</strong> Automatización con <strong>Bash</strong>, entornos en <strong>Docker</strong>, diseño de redes y consultas en <strong>SQL</strong>.</li>
+          <li><strong>🖥️ Especialidad:</strong> Montaje de equipos a medida, diagnóstico de hardware y soporte técnico resolutivo.</li>
+          <li><strong>💬 Idiomas:</strong> Español (Nativo) | Inglés (Nivel B2 Fluido).</li>
+        </ul>
+      </td>
+
+      <td width="45%" valign="middle" style="padding: 0;">
+        <pre style="margin: 0; padding: 18px 20px; background: #0b1120; border: 1px solid #38bdf8; border-radius: 18px; color: #7dd3fc; font-size: 13px; line-height: 1.7; text-align: left; overflow: auto; white-space: pre-wrap; word-break: break-word; box-shadow: 0 8px 16px rgba(56, 189, 248, 0.12);">
 usuario: "Jaime Montes González"
 rol: "SysAdmin & IT Technician"
 formacion:
@@ -58,10 +55,11 @@ intereses:
   - "Infraestructura de Red"
   - "Contenedores & Virtualización"
 estado: "Disponible (Mañanas / Fines de semana)"
-      </pre>
-    </td>
-  </tr>
-</table>
+        </pre>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <hr/>
 
@@ -119,8 +117,8 @@ estado: "Disponible (Mañanas / Fines de semana)"
   <br/>
   <blockquote>
     <ul>
-      <li><b>Técnico de Sistemas y Soporte (CEIP Dos de Mayo):</b> Mantenimiento de equipos, diseño y administración de la página web del centro, resolución de incidencias y apoyo técnico en aulas.</li>
-      <li><b>Administración en Laboratorio (ASIR / SMR):</b> Configuración de servicios de red (DHCP, DNS, HTTP, Active Directory), despliegue de contenedores con Docker y administración de bases de datos relacionales.</li>
+      <li><b>Técnico de Sistemas y Soporte (CEIP Dos de Mayo):</b> Mantenimiento de equipos, diseño y administración de la página web del centro, resolución de incidencias y apoyo técnico en redes y hardware.</li>
+      <li><b>Administración en Laboratorio (ASIR / SMR):</b> Configuración de servicios de red (DHCP, DNS, HTTP, Active Directory), despliegue de contenedores con Docker y administración de bases de datos.</li>
       <li><b>Montaje de Hardware:</b> Selección de componentes, ensamblaje desde cero, gestión de cableado, configuración de BIOS/UEFI y pruebas de estabilidad.</li>
     </ul>
   </blockquote>
@@ -131,8 +129,8 @@ estado: "Disponible (Mañanas / Fines de semana)"
 <!-- ESTADÍSTICAS DE GITHUB -->
 <div align="center">
   <h2>📊 Actividad y Estadísticas</h2>
-  
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JaimeG07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
+
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JaimeG07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=es" alt="GitHub Stats" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeG07&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados" />
 
 </div>
