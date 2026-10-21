@@ -42,25 +42,6 @@
     <td width="45%" valign="center">
       <!-- Bloque estilo terminal -->
       <pre lang="yaml">
-usuario: "Jaime Montes González"
-rol: "SysAdmin & IT Technician"
-formacion:
-  - "CFGS ASIR (En curso)"
-  - "CFGM SMR (Titulado)"
-sistemas_favoritos:
-  - Linux (Debian / Ubuntu)
-  - Windows
-intereses:
-  - "Montaje y optimización de PCs"
-  - "Infraestructura de Red"
-  - "Contenedores & Virtualización"
-estado: "Disponible (Mañanas / Fines de semana)"
-      </pre>
-    </td>
-  </tr>
-</table>
-
-<hr/>
 
 <!-- STACK TECNOLÓGICO EN TABLA HTML -->
 <div align="center">
