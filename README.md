@@ -29,18 +29,18 @@
     <td width="55%" valign="top">
       <h3>👨‍💻 Sobre mí</h3>
       <p>
-        ¡Hola! Soy <b>Jaime</b>, técnico titulado en <b>SMR</b> y actualmente cursando el último año del Grado Superior en <b>Administración de Sistemas Informáticos en Red (ASIR)</b>.
+        ¡Hola! Soy <b>Jaime</b>, técnico titulado en <b>SMR</b> y estudiante del último año del Grado Superior en <b>ASIR</b>. Me apasiona la administración de sistemas, la automatización y el soporte técnico aplicado a entornos reales.
       </p>
       <ul>
-        <li>🔭 <b>Enfocado en:</b> Administración de sistemas <kbd>Linux</kbd> y <kbd>Windows Server</kbd>, virtualización y despliegue de contenedores.</li>
-        <li>🌱 <b>Perfeccionando:</b> Automatización con <b>Bash</b>, entornos en <b>Docker</b>, diseño de redes y consultas en <b>SQL</b>.</li>
-        <li>🖥️ <b>Especialidad:</b> Montaje de equipos a medida, diagnóstico de hardware y soporte técnico resolutivo.</li>
+        <li>🔧 <b>Actualmente:</b> me centro en <kbd>Linux</kbd>, <kbd>Windows Server</kbd>, virtualización y despliegue de contenedores.</li>
+        <li>📚 <b>Aprendiendo:</b> automatización con <b>Bash</b>, entornos en <b>Docker</b>, redes y consultas en <b>SQL</b>.</li>
+        <li>🖥️ <b>Intereses:</b> montaje de equipos a medida, diagnóstico de hardware y resolución de incidencias.</li>
         <li>💬 <b>Idiomas:</b> Español (Nativo) | Inglés (Nivel B2 Fluido).</li>
       </ul>
     </td>
     <td width="45%" valign="center">
-      <!-- Bloque estilo terminal -->
-      <pre lang="yaml">
+
+```yaml
 usuario: "Jaime Montes González"
 rol: "SysAdmin & IT Technician"
 formacion:
@@ -54,11 +54,11 @@ intereses:
   - "Infraestructura de Red"
   - "Contenedores & Virtualización"
 estado: "Disponible (Mañanas / Fines de semana)"
-      </pre>
-    </td>
-  </tr>
-</table>
+```
 
+</td>
+</tr>
+</table>
 <hr/>
 
 <!-- STACK TECNOLÓGICO EN TABLA HTML -->
