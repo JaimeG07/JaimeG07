@@ -2,11 +2,11 @@
 <div align="center">
 
   <!-- Banner superior con efecto ola -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jaime%20Montes&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=30&fontAlignX=50&fontFamily=Verdana" width="100%" alt="Banner Jaime Montes" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jaime%20Montes&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&fontAlignX=50&fontFamily=Verdana" width="100%" alt="Banner Jaime Montes" />
 
   <!-- Efecto máquina de escribir en SVG -->
   <a href="https://github.com/JaimeG07">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=T%C3%A9cnico+en+Sistemas+Microinform%C3%A1ticos+y+ASIR;SysAdmin+%26+IT+Technician;Soporte+T%C3%A9cnico+%26+Virtualizaci%C3%B3n" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=T%C3%A9cnico+en+Sistemas+Microinform%C3%A1ticos+y+en+ASIR;Administrador+de+Sistemas;Soporte+T%C3%A9cnico+%26+Virtualizaci%C3%B3n" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -23,42 +23,11 @@
 
 <hr/>
 
-<!-- SECCIÓN SOBRE MÍ A DOS COLUMNAS CON TABLA HTML -->
-<table width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h3>👨‍💻 Sobre mí</h3>
-      <p>
-        ¡Hola! Soy <b>Jaime</b>, técnico titulado en <b>SMR</b> y estudiante del último año del Grado Superior en <b>ASIR</b>. Me apasiona la administración de sistemas, la automatización y el soporte técnico aplicado a entornos reales.
-      </p>
-      <ul>
-        <li>🔧 <b>Actualmente:</b> me centro en <kbd>Linux</kbd>, <kbd>Windows Server</kbd>, virtualización y despliegue de contenedores.</li>
-        <li>📚 <b>Aprendiendo:</b> automatización con <b>Bash</b>, entornos en <b>Docker</b>, redes y consultas en <b>SQL</b>.</li>
-        <li>🖥️ <b>Intereses:</b> montaje de equipos a medida, diagnóstico de hardware y resolución de incidencias.</li>
-        <li>💬 <b>Idiomas:</b> Español (Nativo) | Inglés (Nivel B2 Fluido).</li>
-      </ul>
-    </td>
-    <td width="45%" valign="center">
+<!-- SECCIÓN SOBRE MÍ (CARGADA DESDE TU ARCHIVO SVG CON CSS) -->
+<div align="center">
+  <img src="./sobre-mi.svg" width="100%" alt="Sobre mí" />
+</div>
 
-```yaml
-usuario: "Jaime Montes González"
-rol: "SysAdmin & IT Technician"
-formacion:
-  - "CFGS ASIR (En curso)"
-  - "CFGM SMR (Titulado)"
-sistemas_favoritos:
-  - Linux (Debian / Ubuntu)
-  - Windows
-intereses:
-  - "Montaje y optimización de PCs"
-  - "Infraestructura de Red"
-  - "Contenedores & Virtualización"
-estado: "Disponible (Mañanas / Fines de semana)"
-```
-
-</td>
-</tr>
-</table>
 <hr/>
 
 <!-- STACK TECNOLÓGICO EN TABLA HTML -->
@@ -115,8 +84,8 @@ estado: "Disponible (Mañanas / Fines de semana)"
   <br/>
   <blockquote>
     <ul>
-      <li><b>Técnico de Sistemas y Soporte (CEIP Dos de Mayo):</b> Mantenimiento de equipos, diseño y administración de la página web del centro, resolución de incidencias y apoyo técnico en aulas.</li>
-      <li><b>Administración en Laboratorio (ASIR / SMR):</b> Configuración de servicios de red (DHCP, DNS, HTTP, Active Directory), despliegue de contenedores con Docker y administración de bases de datos relacionales.</li>
+      <li><b>Técnico de Sistemas y Soporte (CEIP Dos de Mayo):</b> Mantenimiento de equipos, diseño y administración de la página web del centro, resolución de incidencias y apoyo técnico en redes y hardware.</li>
+      <li><b>Administración en Laboratorio (ASIR / SMR):</b> Configuración de servicios de red (DHCP, DNS, HTTP, Active Directory), despliegue de contenedores con Docker y administración de bases de datos.</li>
       <li><b>Montaje de Hardware:</b> Selección de componentes, ensamblaje desde cero, gestión de cableado, configuración de BIOS/UEFI y pruebas de estabilidad.</li>
     </ul>
   </blockquote>
@@ -127,8 +96,8 @@ estado: "Disponible (Mañanas / Fines de semana)"
 <!-- ESTADÍSTICAS DE GITHUB -->
 <div align="center">
   <h2>📊 Actividad y Estadísticas</h2>
-  
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JaimeG07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
+
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JaimeG07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=es" alt="GitHub Stats" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeG07&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados" />
 
 </div>
