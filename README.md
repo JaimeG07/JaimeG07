@@ -1,29 +1,28 @@
-<!-- ENCABEZADO ANIMADO Y PRESENTACIÓN -->
+<!-- ENCABEZADO Y PRESENTACIÓN -->
 <div align="center">
 
   <!-- Banner superior -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jaime%20Montes&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlign=left" width="100%" alt="Banner de Jaime Montes" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jaime%20Montes&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlign=center&fontFamily=Verdana&fontWeight=700" width="100%" alt="Banner Jaime Montes" />
 
   <!-- Máquina de escribir -->
   <a href="https://github.com/JaimeG07" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=T%C3%A9cnico+en+Sistemas+Microinform%C3%A1ticos;Estudiante+de+ASIR;Apasionado+por+Linux%2C+redes+y+automatizaci%C3%B3n" alt="Texto animado: Técnico en Sistemas Microinformáticos, Estudiante de ASIR, Apasionado por Linux, redes y automatización" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=T%C3%A9cnico+en+Sistemas+Microinform%C3%A1ticos;Estudiante+de+ASIR;SysAdmin+%26+IT+Technician" alt="Técnico en Sistemas Microinformáticos" />
   </a>
 
-  <br/>
+  <br />
 
   <!-- Botones de contacto -->
   <p align="center">
     <a href="https://www.linkedin.com/in/jaime-montes-gonz%C3%A1lez-213410238" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-   
     <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Pinto%2C%20Madrid-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación" />
     <img src="https://komarev.com/ghpvc/?username=JaimeG07&label=Visitas%20al%20perfil&color=0e75b6&style=for-the-badge" alt="Visitas al perfil" />
   </p>
 
 </div>
 
-<hr/>
+<hr />
 
 <!-- SECCIÓN SOBRE MÍ -->
 <table width="100%">
@@ -55,13 +54,12 @@ intereses:
   - "Montaje y optimización de PCs"
   - "Infraestructura de Red"
   - "Contenedores & Virtualización"
-"
       </pre>
     </td>
   </tr>
 </table>
 
-<hr/>
+<hr />
 
 <!-- STACK TECNOLÓGICO -->
 <div align="center">
@@ -112,7 +110,7 @@ intereses:
 <!-- DESPLEGABLE INTERACTIVO -->
 <details>
   <summary><b>📂 Haz clic aquí para ver más detalles sobre mi experiencia práctica</b></summary>
-  <br/>
+  <br />
   <blockquote>
     <ul>
       <li><b>Técnico de Sistemas y Soporte (CEIP Dos de Mayo):</b> Mantenimiento de equipos, diseño y administración de la página web del centro, resolución de incidencias y apoyo técnico educativo.</li>
@@ -122,14 +120,13 @@ intereses:
   </blockquote>
 </details>
 
-<hr/>
+<hr />
 
 <!-- ESTADÍSTICAS DE GITHUB -->
 <div align="center">
   <h2>📊 Actividad y Estadísticas</h2>
 
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JaimeG07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=es" alt="Estadísticas de GitHub de JaimeG07" />
- 
 
 </div>
 
