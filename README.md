@@ -16,7 +16,6 @@
     <a href="https://www.linkedin.com/in/jaime-montes-gonz%C3%A1lez-213410238" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Pinto%2C%20Madrid-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación" />
     <img src="https://komarev.com/ghpvc/?username=JaimeG07&label=Visitas%20al%20perfil&color=0e75b6&style=for-the-badge" alt="Visitas al perfil" />
   </p>
 
