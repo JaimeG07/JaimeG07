@@ -23,9 +23,9 @@
 
 <hr/>
 
-<!-- SECCIÓN SOBRE MÍ (CARGADA DESDE TU ARCHIVO SVG CON CSS) -->
+<!-- SECCIÓN SOBRE MÍ -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JaimeG07/JaimeG07/main/sobre-mi.svg" width="100%" alt="Sobre mí" />
+  <img src="https://raw.githubusercontent.com/JaimeG07/JaimeG07/main/sobre-mi.svg?v=2" width="100%" alt="Sobre mí" />
 </div>
 
 <!-- STACK TECNOLÓGICO EN TABLA HTML -->
