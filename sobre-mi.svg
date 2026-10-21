@@ -34,7 +34,7 @@
 
   <text x="530" y="64" font-family="Consolas, &#39;Courier New&#39;, monospace" font-size="12.5">
     <tspan x="530" dy="0" fill="#7ee787">usuario:</tspan><tspan fill="#7dd3fc"> "Jaime Montes González"</tspan>
-    <tspan x="530" dy="20" fill="#7ee787">rol:</tspan><tspan fill="#7dd3fc"> "SysAdmin & IT Technician"</tspan>
+    <tspan x="530" dy="20" fill="#7ee787">rol:</tspan><tspan fill="#7dd3fc"> "SysAdmin / IT Technician"</tspan>
     <tspan x="530" dy="20" fill="#7ee787">formacion:</tspan>
     <tspan x="530" dy="19" fill="#e2e8f0">  - </tspan><tspan fill="#7dd3fc">"CFGS ASIR (En curso)"</tspan>
     <tspan x="530" dy="19" fill="#e2e8f0">  - </tspan><tspan fill="#7dd3fc">"CFGM SMR (Titulado)"</tspan>
@@ -44,6 +44,6 @@
     <tspan x="530" dy="20" fill="#7ee787">intereses:</tspan>
     <tspan x="530" dy="19" fill="#e2e8f0">  - </tspan><tspan fill="#7dd3fc">"Montaje y optimización de PCs"</tspan>
     <tspan x="530" dy="19" fill="#e2e8f0">  - </tspan><tspan fill="#7dd3fc">"Infraestructura de Red"</tspan>
-    <tspan x="530" dy="19" fill="#e2e8f0">  - </tspan><tspan fill="#7dd3fc">"Contenedores & Virtualización"</tspan>
+    <tspan x="530" dy="19" fill="#e2e8f0">  - </tspan><tspan fill="#7dd3fc">"Contenedores y Virtualización"</tspan>
   </text>
 </svg>
