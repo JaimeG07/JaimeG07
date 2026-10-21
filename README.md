@@ -57,7 +57,7 @@ intereses:
   - "Montaje y optimización de PCs"
   - "Infraestructura de Red"
   - "Contenedores & Virtualización"
-estado: "Disponible (Mañanas / Fines de semana)"
+"
       </pre>
     </td>
   </tr>
@@ -131,7 +131,7 @@ estado: "Disponible (Mañanas / Fines de semana)"
   <h2>📊 Actividad y Estadísticas</h2>
 
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JaimeG07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=es" alt="Estadísticas de GitHub de JaimeG07" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeG07&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados por JaimeG07" />
+ 
 
 </div>
 
