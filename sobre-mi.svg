@@ -1,61 +1,49 @@
-<svg fill="none" viewBox="0 0 900 320" width="100%" height="320" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 900 300" width="900" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgIzq" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+  </defs>
 
-  .contenedor {
-display: flex;
-gap: 20px;
-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-padding: 10px 4px;
-box-sizing: border-box;
-}
-.card-izq {
-width: 55%;
-padding: 22px;
-background: linear-gradient(135deg, #0f172a, #111827);
-border: 1px solid #1e293b;
-border-radius: 18px;
-box-shadow: 0 8px 16px rgba(0,0,0,0.25);
-color: #e2e8f0;
-box-sizing: border-box;
-}
-.card-izq h3 {
-margin: 0 0 12px 0;
-color: #f8fafc;
-font-size: 19px;
-}
-.card-izq p {
-margin: 0;
-font-size: 14px;
-line-height: 1.6;
-}
-.card-izq ul {
-margin: 12px 0 0 0;
-padding-left: 18px;
-font-size: 13.5px;
-line-height: 1.75;
-}
-kbd {
-background-color: #1e293b;
-border: 1px solid #475569;
-border-radius: 4px;
-padding: 1px 5px;
-font-size: 12px;
-font-family: monospace;
-}
-.card-der {
-width: 45%;
-padding: 20px 22px;
-background: #0b1120;
-border: 1px solid #38bdf8;
-border-radius: 18px;
-box-shadow: 0 8px 16px rgba(56, 189, 248, 0.12);
-font-family: ui-monospace, SFMono-Regular, Consolas, monospace;
-font-size: 13px;
-line-height: 1.65;
-color: #e2e8f0;
-box-sizing: border-box;
-display: flex;
-flex-direction: column;
-justify-content: center;
-}
-.key { color: #7ee787; }
-.str { color: #7dd3fc; }
+  <!-- TARJETA IZQUIERDA -->
+  <rect x="5" y="10" width="485" height="280" rx="18" fill="url(#bgIzq)" stroke="#1e293b" stroke-width="2" />
+  
+  <text x="30" y="50" fill="#f8fafc" font-family="Segoe UI, Ubuntu, sans-serif" font-size="20" font-weight="bold">👨‍💻 Sobre mí</text>
+  
+  <text x="30" y="82" fill="#e2e8f0" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13.5">
+    <tspan x="30" dy="0">¡Hola! Soy </tspan><tspan font-weight="bold" fill="#ffffff">Jaime</tspan><tspan>, técnico titulado en </tspan><tspan font-weight="bold" fill="#ffffff">SMR</tspan><tspan> y estudiante del último</tspan>
+    <tspan x="30" dy="22">año del Grado Superior en </tspan><tspan font-weight="bold" fill="#ffffff">ASIR</tspan><tspan>. Me apasiona la administración de</tspan>
+    <tspan x="30" dy="22">sistemas, la automatización y el soporte técnico en entornos reales.</tspan>
+  </text>
+
+  <text x="30" y="162" fill="#e2e8f0" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13.5">
+    <tspan x="30" dy="0">• 🔧 </tspan><tspan font-weight="bold" fill="#38bdf8">Actualmente:</tspan><tspan> Linux, Windows Server y virtualización.</tspan>
+    <tspan x="30" dy="28">• 📚 </tspan><tspan font-weight="bold" fill="#38bdf8">Aprendiendo:</tspan><tspan> Bash, Docker, redes y consultas SQL.</tspan>
+    <tspan x="30" dy="28">• 🖥️ </tspan><tspan font-weight="bold" fill="#38bdf8">Intereses:</tspan><tspan> Montaje de PCs, hardware e incidencias.</tspan>
+    <tspan x="30" dy="28">• 💬 </tspan><tspan font-weight="bold" fill="#38bdf8">Idiomas:</tspan><tspan> Español (Nativo) | Inglés (Nivel B2 Fluido).</tspan>
+  </text>
+
+  <!-- TARJETA DERECHA (TERMINAL YAML) -->
+  <rect x="510" y="10" width="385" height="280" rx="18" fill="#0b1120" stroke="#38bdf8" stroke-width="1.5" />
+
+  <!-- Puntos estilo ventana terminal -->
+  <circle cx="535" cy="32" r="5.5" fill="#ff5f56" />
+  <circle cx="553" cy="32" r="5.5" fill="#ffbd2e" />
+  <circle cx="571" cy="32" r="5.5" fill="#27c93f" />
+
+  <text x="530" y="64" font-family="Consolas, &#39;Courier New&#39;, monospace" font-size="12.5">
+    <tspan x="530" dy="0" fill="#7ee787">usuario:</tspan><tspan fill="#7dd3fc"> "Jaime Montes González"</tspan>
+    <tspan x="530" dy="20" fill="#7ee787">rol:</tspan><tspan fill="#7dd3fc"> "SysAdmin & IT Technician"</tspan>
+    <tspan x="530" dy="20" fill="#7ee787">formacion:</tspan>
+    <tspan x="530" dy="19" fill="#e2e8f0">  - </tspan><tspan fill="#7dd3fc">"CFGS ASIR (En curso)"</tspan>
+    <tspan x="530" dy="19" fill="#e2e8f0">  - </tspan><tspan fill="#7dd3fc">"CFGM SMR (Titulado)"</tspan>
+    <tspan x="530" dy="20" fill="#7ee787">sistemas_favoritos:</tspan>
+    <tspan x="530" dy="19" fill="#e2e8f0">  - </tspan><tspan fill="#7dd3fc">Linux (Debian / Ubuntu)</tspan>
+    <tspan x="530" dy="19" fill="#e2e8f0">  - </tspan><tspan fill="#7dd3fc">Windows</tspan>
+    <tspan x="530" dy="20" fill="#7ee787">intereses:</tspan>
+    <tspan x="530" dy="19" fill="#e2e8f0">  - </tspan><tspan fill="#7dd3fc">"Montaje y optimización de PCs"</tspan>
+    <tspan x="530" dy="19" fill="#e2e8f0">  - </tspan><tspan fill="#7dd3fc">"Infraestructura de Red"</tspan>
+    <tspan x="530" dy="19" fill="#e2e8f0">  - </tspan><tspan fill="#7dd3fc">"Contenedores & Virtualización"</tspan>
+  </text>
+</svg>
